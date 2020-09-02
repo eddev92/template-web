@@ -1,0 +1,40 @@
+.card-element {
+	padding: 0 5px;
+	margin-bottom: 10px;
+    /* background: #e5e5e5;
+    margin: auto; */
+}
+.card-element .ant-card{
+    background: #e5e5e5;
+}
+.card-element img {
+	height: 50px;
+	margin: -10px auto 20px;
+}
+.body-card {
+	margin-top: 45px;
+}
+.chkbx-card {
+	margin: auto;
+	width: 100%;
+}
+.chkbx-brand {
+	margin: auto;
+	width: 100%;
+	text-align: center;
+}
+.merchant-code label {
+	width: 100%;
+	margin: 10px 0 !important;
+	text-align: center !important;
+}
+.card-element .ant-card-body {
+	padding: 24px 10px !important;
+}
+
+.card-element table, .card-element td, .card-elementth {
+	border: none !important;
+}
+.merchant-code {
+	text-align: center;
+}

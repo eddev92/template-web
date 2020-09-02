@@ -1,0 +1,11 @@
+input.input-secure-key {
+    border-radius: 2.2rem;
+    border: 1px solid;
+}
+input.input-code {
+    /* text-align: center; */
+}
+
+.input-secure-key.field-error {
+    border: 1px solid #f25f25;
+}

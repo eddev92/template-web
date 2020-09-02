@@ -1,0 +1,15 @@
+.main-viewer table, th, td {
+    border: 1px solid black;
+}
+.main-viewer table {
+    width: 100%;
+    
+}
+.main-viewer td {
+    padding: 10px;
+}
+.main-viewer {
+    overflow-y: auto !important;
+    max-height: 550px;
+    margin: auto;
+}

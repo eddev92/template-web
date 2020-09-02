@@ -1,0 +1,38 @@
+.main-side-nav  {
+    background-color: #F6F6F6;
+    overflow: hidden;
+    box-shadow: 0px 1px 8px #b1b1b1;
+    transition: all 200ms ease;
+    padding: 0;
+    max-width: 300px;
+}
+.main-side-nav ul {
+    padding: 0;
+}
+.main-side-nav ul li a {
+    color: #D11990;
+    display: block;
+    height: 100%;
+    width: 100%;
+    font-size: 15px;
+    /* padding: 26px; */
+}
+.main-side-nav ul li {
+    display: block;
+    text-align: left;
+    cursor: pointer;
+    color: #D11990;
+    font-size: 15px;
+    height: 75px;
+    padding-left: 25px;
+    line-height: 75px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.main-side-nav ul li.alignet-logo {
+    border: none;
+    text-align: center;
+}
+.alignet-logo img {
+    /* margin: 50% 0; */
+
+}

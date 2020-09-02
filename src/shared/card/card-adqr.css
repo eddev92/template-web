@@ -1,0 +1,29 @@
+
+.main-card-adquirency {
+    display: inline-flex;
+    background-color: #F7F7F7;
+    border-radius: 3px;
+    margin: auto;
+    box-shadow: 4px 3px 8px 1px #bbbbbb;
+}
+.main-card-adquirency ul li {
+    display: block;
+    margin: 10px 0;
+}
+.main-card-adquirency .ant-avatar.ant-avatar-icon {
+    margin: auto 17px;
+}
+.vertical-line{
+    background-color: #D11990; /* Line color */
+    height: 100%;
+    float: left;
+    width: 1.5px;
+    margin: auto 0;
+  }
+  .main-card-adquirency ul {
+    padding: 10px 0;
+    float: left;
+    margin: auto 10px;
+    height: 100%;
+    text-align: left;
+  }

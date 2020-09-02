@@ -1,0 +1,12 @@
+[0610/105623.558:WARNING:minidump_to_upload_parameters.cc(36)] duplicate key guid, discarding value 9148af5e-d838-45a5-91a1-8f6b1afecea5
+[0622/130410.696:ERROR:settings.cc(401)] Settings magic is not 1129342067
+[0820/094249.682:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0821/105727.803:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0824/103621.931:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0824/145446.311:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0825/093535.961:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0826/131340.914:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0828/100547.742:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0830/105540.660:ERROR:crash_report_database_win.cc(430)] unexpected header
+[0831/105223.262:ERROR:crash_report_database_win.cc(430)] unexpected header
+[0902/132820.291:ERROR:crash_report_database_win.cc(430)] unexpected header

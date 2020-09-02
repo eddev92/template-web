@@ -1,0 +1,20 @@
+.login-form-transc label {
+    float: left;
+    margin-bottom: -10px;
+    font-size: 0.8em;
+}
+.login-form-transc .ant-form-item {
+    padding: 0 15px;
+}
+.main-home {
+    height: 100%;
+    padding-top: 70px;
+}
+.dashboard-home {
+    padding: 0;
+    /* z-index: -1; */
+}
+.dashboard-home img {
+    /* width: 100%; */
+    height: 80px;
+}

@@ -1,0 +1,17 @@
+.login-form-transc {
+    margin: auto;
+}
+.login-form-transc h4 {
+    text-align: left;
+    font-size: 1.6rem;
+    margin-top: 20px;
+}
+.login-form-transc h5 {
+    text-align: left;
+    color: #5C5C5C;
+    font-size: 1em;
+    margin-top: 35px;
+}
+span.underline-route {
+    text-decoration: underline;
+}
